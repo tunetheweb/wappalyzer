@@ -22,7 +22,7 @@ If you don't have time to configure, host, debug and maintain your own infrastru
 ## Quick start
 
 ```sh
-git clone https://github.com/wappalyzer/wappalyzer.git
+git clone https://github.com/tunetheweb/wappalyzer.git
 cd wappalyzer
 yarn install
 yarn run link
